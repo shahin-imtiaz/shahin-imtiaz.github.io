@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.41c6c3ed.chunk.css",
-    "main.js": "/static/js/main.74c23545.chunk.js",
-    "main.js.map": "/static/js/main.74c23545.chunk.js.map",
+    "main.css": "/static/css/main.67fdaf16.chunk.css",
+    "main.js": "/static/js/main.9d33b45f.chunk.js",
+    "main.js.map": "/static/js/main.9d33b45f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d1454e20.js",
     "runtime-main.js.map": "/static/js/runtime-main.d1454e20.js.map",
     "static/js/2.429bbb21.chunk.js": "/static/js/2.429bbb21.chunk.js",
     "static/js/2.429bbb21.chunk.js.map": "/static/js/2.429bbb21.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.41c6c3ed.chunk.css.map": "/static/css/main.41c6c3ed.chunk.css.map",
+    "static/css/main.67fdaf16.chunk.css.map": "/static/css/main.67fdaf16.chunk.css.map",
     "static/js/2.429bbb21.chunk.js.LICENSE.txt": "/static/js/2.429bbb21.chunk.js.LICENSE.txt",
     "static/media/file-text.d079568a.svg": "/static/media/file-text.d079568a.svg",
     "static/media/github.aff48cfa.svg": "/static/media/github.aff48cfa.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.d1454e20.js",
     "static/js/2.429bbb21.chunk.js",
-    "static/css/main.41c6c3ed.chunk.css",
-    "static/js/main.74c23545.chunk.js"
+    "static/css/main.67fdaf16.chunk.css",
+    "static/js/main.9d33b45f.chunk.js"
   ]
 }
