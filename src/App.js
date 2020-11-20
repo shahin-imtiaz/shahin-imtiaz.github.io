@@ -11,7 +11,7 @@ function App() {
       <div className="container">
         <div className="intro">
           <div className="intro-child">
-            <h1>Hi, I'm Shahin<span>.</span></h1>
+            <h1>Hi 👋 , I'm Shahin<span>.</span></h1>
             <p>
             Open for work, looking for a SWE internship for Summer 2021.
 
